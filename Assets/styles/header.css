@@ -1,0 +1,24 @@
+
+header {
+    height: 600px;
+    background-image: url("../images/urban girl.JPG");
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    z-index: 1;
+}
+
+.header__center {
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.header__title {
+    font-family: 'Lobster', cursive;
+    font-size: 2.5em;
+    margin: 10px;
+}

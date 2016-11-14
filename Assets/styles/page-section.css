@@ -1,0 +1,19 @@
+.page-section {
+    width: 100%;
+    background-color: white;
+}
+.page-section__title {
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 30px;
+}
+.page-section__container {
+    padding-bottom: 60px;
+    padding-top: 60px;
+}
+.page-section__description {
+    margin-bottom: 30px;
+}
+.page-section__bg {
+    background-color: #f2f2f2;
+}

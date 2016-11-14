@@ -1,0 +1,25 @@
+
+ul, li, h1, h2, h3, h4, h5, h6, p {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.column__8 {
+    width: 66.6%;
+    margin: 0 auto;
+}
+.btn {
+    background-color: lightblue;
+    padding: 15px 32 px;
+    cursor: pointer;
+    display: block;
+    margin: 0 auto;
+    border: 2px solid #666;
+    border-radius: 10px;
+}
